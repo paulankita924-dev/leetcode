@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/paulankita924-dev/leetcode/tree/master/0217-contains-duplicate) |
+| [1672-richest-customer-wealth](https://github.com/paulankita924-dev/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/paulankita924-dev/leetcode/tree/master/0217-contains-duplicate) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/paulankita924-dev/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
