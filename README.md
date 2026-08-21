@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/paulankita924-dev/leetcode/tree/master/0020-valid-parentheses) |
 | [1472-design-browser-history](https://github.com/paulankita924-dev/leetcode/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/paulankita924-dev/leetcode/tree/master/0933-number-of-recent-calls) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/paulankita924-dev/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/paulankita924-dev/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
