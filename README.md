@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/paulankita924-dev/leetcode/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/paulankita924-dev/leetcode/tree/master/1472-design-browser-history) |
 | [1672-richest-customer-wealth](https://github.com/paulankita924-dev/leetcode/tree/master/1672-richest-customer-wealth) |
+| [2073-time-needed-to-buy-tickets](https://github.com/paulankita924-dev/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/paulankita924-dev/leetcode/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/paulankita924-dev/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## String
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/paulankita924-dev/leetcode/tree/master/0739-daily-temperatures) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/paulankita924-dev/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
