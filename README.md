@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/paulankita924-dev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/paulankita924-dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/paulankita924-dev/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/paulankita924-dev/leetcode/tree/master/0739-daily-temperatures) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/paulankita924-dev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/paulankita924-dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/paulankita924-dev/leetcode/tree/master/0912-sort-an-array) |
 ## Matrix
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/paulankita924-dev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/paulankita924-dev/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
