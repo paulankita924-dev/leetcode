@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/paulankita924-dev/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/paulankita924-dev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/paulankita924-dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/paulankita924-dev/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/paulankita924-dev/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/paulankita924-dev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/paulankita924-dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/paulankita924-dev/leetcode/tree/master/0912-sort-an-array) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/paulankita924-dev/leetcode/tree/master/0509-fibonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/paulankita924-dev/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
