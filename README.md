@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/paulankita924-dev/leetcode/tree/master/0912-sort-an-array) |
 | [1472-design-browser-history](https://github.com/paulankita924-dev/leetcode/tree/master/1472-design-browser-history) |
 | [1584-min-cost-to-connect-all-points](https://github.com/paulankita924-dev/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1627-graph-connectivity-with-threshold](https://github.com/paulankita924-dev/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1672-richest-customer-wealth](https://github.com/paulankita924-dev/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2073-time-needed-to-buy-tickets](https://github.com/paulankita924-dev/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/paulankita924-dev/leetcode/tree/master/0509-fibonacci-number) |
+| [1627-graph-connectivity-with-threshold](https://github.com/paulankita924-dev/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1952-three-divisors](https://github.com/paulankita924-dev/leetcode/tree/master/1952-three-divisors) |
 ## Dynamic Programming
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/paulankita924-dev/leetcode/tree/master/0200-number-of-islands) |
 | [1584-min-cost-to-connect-all-points](https://github.com/paulankita924-dev/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1627-graph-connectivity-with-threshold](https://github.com/paulankita924-dev/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 ## Graph Theory
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1627-graph-connectivity-with-threshold](https://github.com/paulankita924-dev/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1952-three-divisors](https://github.com/paulankita924-dev/leetcode/tree/master/1952-three-divisors) |
 ## Prime Factorization
 |  |
