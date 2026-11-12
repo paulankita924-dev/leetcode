@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/paulankita924-dev/leetcode/tree/master/0509-fibonacci-number) |
+| [1952-three-divisors](https://github.com/paulankita924-dev/leetcode/tree/master/1952-three-divisors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,4 +208,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/paulankita924-dev/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/paulankita924-dev/leetcode/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/paulankita924-dev/leetcode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/paulankita924-dev/leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/paulankita924-dev/leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
