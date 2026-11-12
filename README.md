@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/paulankita924-dev/leetcode/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/paulankita924-dev/leetcode/tree/master/0072-edit-distance) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/paulankita924-dev/leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/paulankita924-dev/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/paulankita924-dev/leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/paulankita924-dev/leetcode/tree/master/0509-fibonacci-number) |
