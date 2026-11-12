@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/paulankita924-dev/leetcode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/paulankita924-dev/leetcode/tree/master/0377-combination-sum-iv) |
 | [0739-daily-temperatures](https://github.com/paulankita924-dev/leetcode/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/paulankita924-dev/leetcode/tree/master/0740-delete-and-earn) |
 | [0912-sort-an-array](https://github.com/paulankita924-dev/leetcode/tree/master/0912-sort-an-array) |
 | [1472-design-browser-history](https://github.com/paulankita924-dev/leetcode/tree/master/1472-design-browser-history) |
 | [1584-min-cost-to-connect-all-points](https://github.com/paulankita924-dev/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/paulankita924-dev/leetcode/tree/master/0217-contains-duplicate) |
+| [0740-delete-and-earn](https://github.com/paulankita924-dev/leetcode/tree/master/0740-delete-and-earn) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/paulankita924-dev/leetcode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/paulankita924-dev/leetcode/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/paulankita924-dev/leetcode/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/paulankita924-dev/leetcode/tree/master/0740-delete-and-earn) |
 ## Memoization
 |  |
 | ------- |
