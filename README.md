@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/paulankita924-dev/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/paulankita924-dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/paulankita924-dev/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0307-range-sum-query-mutable](https://github.com/paulankita924-dev/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/paulankita924-dev/leetcode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/paulankita924-dev/leetcode/tree/master/0377-combination-sum-iv) |
 | [0739-daily-temperatures](https://github.com/paulankita924-dev/leetcode/tree/master/0739-daily-temperatures) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/paulankita924-dev/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0933-number-of-recent-calls](https://github.com/paulankita924-dev/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/paulankita924-dev/leetcode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/paulankita924-dev/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0912-sort-an-array](https://github.com/paulankita924-dev/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -224,4 +227,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/paulankita924-dev/leetcode/tree/master/1952-three-divisors) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/paulankita924-dev/leetcode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/paulankita924-dev/leetcode/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/paulankita924-dev/leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
