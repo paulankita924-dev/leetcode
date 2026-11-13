@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/paulankita924-dev/leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/paulankita924-dev/leetcode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/paulankita924-dev/leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/paulankita924-dev/leetcode/tree/master/0743-network-delay-time) |
 ## Knapsack Problem
 |  |
@@ -183,16 +184,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/paulankita924-dev/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/paulankita924-dev/leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/paulankita924-dev/leetcode/tree/master/0743-network-delay-time) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/paulankita924-dev/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/paulankita924-dev/leetcode/tree/master/0547-number-of-provinces) |
 | [1584-min-cost-to-connect-all-points](https://github.com/paulankita924-dev/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1627-graph-connectivity-with-threshold](https://github.com/paulankita924-dev/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/paulankita924-dev/leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/paulankita924-dev/leetcode/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/paulankita924-dev/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Shortest Path
