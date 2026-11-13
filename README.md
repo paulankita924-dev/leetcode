@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/paulankita924-dev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/paulankita924-dev/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/paulankita924-dev/leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/paulankita924-dev/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/paulankita924-dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/paulankita924-dev/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0307-range-sum-query-mutable](https://github.com/paulankita924-dev/leetcode/tree/master/0307-range-sum-query-mutable) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/paulankita924-dev/leetcode/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/paulankita924-dev/leetcode/tree/master/0509-fibonacci-number) |
 | [1627-graph-connectivity-with-threshold](https://github.com/paulankita924-dev/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1952-three-divisors](https://github.com/paulankita924-dev/leetcode/tree/master/1952-three-divisors) |
@@ -220,10 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/paulankita924-dev/leetcode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/paulankita924-dev/leetcode/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/paulankita924-dev/leetcode/tree/master/0204-count-primes) |
 | [1627-graph-connectivity-with-threshold](https://github.com/paulankita924-dev/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1952-three-divisors](https://github.com/paulankita924-dev/leetcode/tree/master/1952-three-divisors) |
 ## Prime Factorization
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/paulankita924-dev/leetcode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/paulankita924-dev/leetcode/tree/master/1952-three-divisors) |
 ## Binary Indexed Tree
 |  |
@@ -246,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/paulankita924-dev/leetcode/tree/master/0307-range-sum-query-mutable) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/paulankita924-dev/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/paulankita924-dev/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
